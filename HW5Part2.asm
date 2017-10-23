@@ -4,7 +4,7 @@
 	Prompt2:.asciiz "You sold "	
 	Prompt3:.asciiz " pizza(s) which is  "
 	Prompt4:.asciiz " square feet of pizza"
-	size:.float 8
+	size:.float 4
 	pi:.float 3.14
 	#empty float values to store infromation
 	answer:.float
